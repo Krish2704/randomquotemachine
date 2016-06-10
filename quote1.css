@@ -1,0 +1,35 @@
+.head{
+  padding-top:3%;
+}
+h1{
+  font-size:3em;
+  height:2em;
+  color:blue;
+}
+body{
+  background:url("https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xal1/v/t1.0-9/12289760_920699207966240_9074155052268858447_n.jpg?oh=f46181874915feccd8a0c2ec21b4b292&oe=5803D3BF&__gda__=1472863720_5e9c6a5a77ed8e3e003c202793f8dd72") center center fixed;
+  background-size:cover;
+}
+.increase{
+  height:100%;
+  border:2px solid black;
+  width:80%;
+  left:7%;
+  background-color:#a4a4a4;
+  padding:2.5%;
+}
+.quote1{
+  font-size:220%;
+  width:75%;
+}
+.author{
+  font-size:150%;
+  font-family:verdana;
+  color:yellow;
+}
+.btn1,.btn2{
+  margin-top:2%;
+  border:2% solid white;
+  border-radius:10px;
+}
+
